@@ -378,7 +378,7 @@ $(document).ready(function () {
 
 <div id="footer">
 	Umetnički studio "Stendhal", Novi Sad<br>
-	Copyright © 2008-2010 | Dizajn baj <a href="http://www.cephalus.in.rs">CEPHALUS</a><br>
+	Copyright © 2008-2016 | Dizajn baj <a href="javascript: alert('truba...');">CEPHALUS</a><br>
 </div>
 
 <!-- VIDEO KLIP MODNE REVIJE -->
@@ -392,33 +392,33 @@ $(document).ready(function () {
 <!-- MARKO SRPSKI -->
 			
 <div class="overlay" id="marko_bio_sr">
-<div class="portret"><img src="avatars/marko_portret.png" class="avatar"/></div>
-<div class="bio">
-<p align="center"><span class="titula">Marko Jukić</span><br>ASISTENT STUDIJA<br><br></p>
-<p align="justify">Svoj urođeni dar za glumu i ples pretočio u manekenstvo. Nesumnjivo jedan od najboljih manekena u Vojvodini. U svakoj reviji unese nešto novo i neobično. 
-
-<br><br>
-
-U nekoliko zadnjih kurseva bio pomoćnik-instruktor i pokazao da mu i to dobro ide. Želja mu je da ima svoj studio. Perspektivan i ambiciozan. Budućnost je pred njim i smeši se cinično...
-
-<br><br></p>
-<p align="center"><span class="moto">ŽIVOTNI MOTO NIJE STEKAO...</span></p></div>
-</div>
-
-<!-- MARKO ENGLESKI -->
-			
-<div class="overlay" id="marko_bio_en">
-<div class="portret"><img src="avatars/marko_portret.png" class="avatar"/></div>
-<div class="bio">
-<p align="center"><span class="titula">Marko Jukić</span><br>STUDIO ASSISTANT<br><br></p>
-<p align="justify">He poured his natural talent for acting and dance into fashion modelling. Undoubtedly one of the best male models in Vojvodina. Endows each and every fashion show with something fresh and unusual. 
-
-<br><br>
-
-In the last few fashion courses he acted as an assistant-instructor and showd that he does well in that role too. His great desire is to have a studio of his own. He's ambitious and very promising. The future before him shines particularly bright!
-
-<br><br></p>
-<p align="center"><span class="moto">ŽIVOTNI MOTO NIJE STEKAO...</span></p></div>
+	<div class="portret"><img src="avatars/marko_portret.png" class="avatar"/></div>
+	<div class="bio">
+	<p align="center"><span class="titula">Marko Jukić</span><br>ASISTENT STUDIJA<br><br></p>
+	<p align="justify">Svoj urođeni dar za glumu i ples pretočio u manekenstvo. Nesumnjivo jedan od najboljih manekena u Vojvodini. U svakoj reviji unese nešto novo i neobično. 
+	
+	<br><br>
+	
+	U nekoliko zadnjih kurseva bio pomoćnik-instruktor i pokazao da mu i to dobro ide. Želja mu je da ima svoj studio. Perspektivan i ambiciozan. Budućnost je pred njim i smeši se cinično...
+	
+	<br><br></p>
+	<p align="center"><span class="moto">ŽIVOTNI MOTO NIJE STEKAO...</span></p></div>
+	</div>
+	
+	<!-- MARKO ENGLESKI -->
+				
+	<div class="overlay" id="marko_bio_en">
+	<div class="portret"><img src="avatars/marko_portret.png" class="avatar"/></div>
+	<div class="bio">
+	<p align="center"><span class="titula">Marko Jukić</span><br>STUDIO ASSISTANT<br><br></p>
+	<p align="justify">He poured his natural talent for acting and dance into fashion modeling. Undoubtedly one of the best male models in Vojvodina. Endows each and every fashion show with something fresh and unusual. 
+	
+	<br><br>
+	
+	In the last few fashion courses he acted as an assistant-instructor and shows that he does well in that role too. His great desire is to have a studio of his own. He's ambitious and very promising. The future before him shines particularly bright!
+	
+	<br><br></p>
+	<p align="center"><span class="moto">Hasn't acquired life motto...</span></p></div>
 </div>
 
 <!-- MAJA SRPSKI -->
@@ -467,11 +467,11 @@ Veliki zaljubljenik u fudbal sa Ostrva. Objektiv je njegova pasija a životni mo
 <div class="bio">
 <p align="center"><span class="titula">Saša Đurđević</span></p><p align="center">ART-PHOTOGRAPHER<br><br></p>
 <p align="justify">
-The Grand Master of artistic photography. Throughout the years of Studio's successful work he's largely been to "blaim" for the distinct visual impression. He marked many of the important events in the development of the Studio (shows, courses, videos,...). 
+The Grand Master of artistic photography. Throughout the years of Studio's successful work he's largely been to "blame" for the distinct visual impression. He marked many of the important events in the development of the Studio (shows, courses, videos,...). 
 
 <br>
 
-He's a great follower of the soccer from The Islands. The camera lense is his passion and his moto is:
+He's a great follower of the soccer from The Islands. The camera lens is his passion and his motto is:
 
 <br></p>
 <p align="center"><span class="moto"><br>“GREAT THINGS REQUIRE GREAT VISION”!</span></p></div>
@@ -500,11 +500,11 @@ Izuzetan instruktor na časovima, pažljiva, nenametljiva. Svoje bogato iskustvo
 <p align="center"><span class="titula">Aleksandra Bunčić</span><br>STYLIST AND STUDIO INSTRUCTOR<br><br></p>
 <p align="justify">Thanks to her April will see the 13th generation of fashion models. 
 
-Exceptional fashion instructor, caring, unimposing. Her rich experience is passed on to the younger generations selfleslly.
+Exceptional fashion instructor, caring, unimposing. Her rich experience is passed on to the younger generations selflessly.
 
 <br> Her horoscope sign - pisces.<br><br></p>
 
-<p align="center"><span class="moto">Her moto:<br> 
+<p align="center"><span class="moto">Her motto:<br> 
 “THERE IS NO NEED TO RUSH, YOU ALWAYS GET WHERE YOU NEED TO BE ON TIME”!</span>
 </p></div>
 </div>
@@ -538,7 +538,7 @@ Neizlečivo zaljubljen u sedamdesete zbog čega je bio i lečen na više presti�
 
 Incurably in love with the seventies for which he sought treatment at several prestigious clinics, domestic and abroad.<br>
 </p>
-<p align="center"><span class="moto">Life's moto:<br>“BEAUTY WILL SAVE THE WORLD”!</span>
+<p align="center"><span class="moto">Life's motto:<br>“BEAUTY WILL SAVE THE WORLD”!</span>
 </p>
 </div>
 </div>
