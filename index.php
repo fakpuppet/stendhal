@@ -1,7 +1,7 @@
 <?php
 	session_start();
 	
-	$_SESSION["language"]="sr";
+	$_SESSION["language"] = "sr";
 	
 	if (isset($_GET["lang"]))
 	{ 
@@ -169,10 +169,10 @@
 
 $(document).ready(function () {
 
-	function(){
+	$(function(){
 		$('#facebox').remove();
 		$('#facebox_overlay').remove();
-	}
+	});
 
     // THIS IS NEW CODE FOR THE AUTOMATIC INFINITE CAROUSEL
     var autoscrolling = true;
@@ -188,16 +188,14 @@ $(document).ready(function () {
             $('.infiniteCarousel').trigger('next');
         }
     }, 6000);
-    
-
-	$(function() { 
-	    $("a[rel]").overlay({expose: '#000', effect: 'apple'});
-	});
-	
+    	
 	$(function() {
 	    $('#gallery a').lightBox();
 	});
-
+	
+	$(function() { 
+		$("a[rel]").overlay({expose: '#000', effect: 'apple'});
+	});
 });
 
 </script>
