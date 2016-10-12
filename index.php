@@ -382,7 +382,7 @@ $(document).ready(function () {
 <!-- VIDEO KLIP MODNE REVIJE -->
 <div class="overlay" id="video_stendhal">
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/yxi7OFFoCq0&hl=en_US&fs=1&rel=0&color1=0x3a3a3a&color2=0x999999"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/yxi7OFFoCq0&hl=en_US&fs=1&rel=0&color1=0x3a3a3a&color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="670" height="405"><param name="movie" value="http://www.youtube.com/v/yxi7OFFoCq0&hl=en_US&fs=1&rel=0&color1=0x3a3a3a&color2=0x999999"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/yxi7OFFoCq0&hl=en_US&fs=1&rel=0&color1=0x3a3a3a&color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="670" height="405"></embed></object>
 
 </div>
 
@@ -534,7 +534,7 @@ Neizlečivo zaljubljen u sedamdesete zbog čega je bio i lečen na više presti�
 
 <br>
 
-Incurably in love with the seventies for which he sought treatment at several prestigious clinics, domestic and abroad.<br>
+Incurably in love with the seventies for which he sought treatment at several prestigious clinics, domestic and foreign.<br>
 </p>
 <p align="center"><span class="moto">Life's motto:<br>“BEAUTY WILL SAVE THE WORLD”!</span>
 </p>
